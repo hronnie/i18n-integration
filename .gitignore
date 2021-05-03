@@ -1,0 +1,17 @@
+dist
+build
+build/index.js
+node_modules
+bower_components
+.DS_Store
+.bowerrc
+npm-debug.log
+.env
+src/dao/firebase/firebase-settings.ts
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
